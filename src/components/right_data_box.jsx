@@ -364,7 +364,7 @@ function Acadamics(){
   <div class="resume-item">
     <span>2009 - 2021</span>
     <div>
-      <h4>P.H. Bachakaniwala Vidya Bhavan</h4>
+      <h4>P.H. Bachakaniwala Vidya Mandir</h4>
       <p>
         Completed schooling from Jr. KG to 12th Standard.
         <br/>12th Science (Boards): 89% (School Topper)
