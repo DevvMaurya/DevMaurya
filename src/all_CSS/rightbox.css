@@ -93,7 +93,7 @@ main #about h3::after {
     margin: 20px;
     background-color: transparent;
     border: none;
-    transition: .5s ease-in-out;
+    transition: .1s ease-in-out;
 }
 
 .menubtns button:hover {
