@@ -155,6 +155,17 @@ function Resume() {
                 </div>
               </div>
               <div class="resume-item">
+                <span>September 2024</span>
+                <div>
+                  <h4>Zorko.eat the featured website</h4>
+                  <p>
+                    Purpose of this website to attrack more customers and increase User Experiance.
+                    <br />
+                    Tech: JavaScript, React , vite, JSON
+                  </p>
+                </div>
+              </div>
+              <div class="resume-item">
                 <span>Virtual Internship</span>
                 <div>
                   <h4>LetsGrowMore</h4>
