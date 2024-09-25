@@ -277,6 +277,20 @@ function Work() {
     <main>
       <h2>Projects | Work</h2>
       <div className="workList">
+        
+         <div className="article-card">
+          <div className="content">
+            <strong>
+              <p className="date">Sep 25, 2024</p>
+              <p className="title">Zorlo.eat</p>
+            </strong>
+          </div>
+          <img
+            src="https://github.com/user-attachments/assets/5c156b3b-c55f-4431-a851-9437016cb699"
+            alt="article-cover"
+          />
+        </div>
+        
         <div className="article-card">
           <div className="content">
             <strong>
@@ -289,6 +303,7 @@ function Work() {
             alt="article-cover"
           />
         </div>
+        
         <div className="article-card">
           <div className="content">
             <strong>
@@ -301,6 +316,7 @@ function Work() {
             alt="article-cover"
           />
         </div>
+        
         <div className="article-card">
           <div className="content">
             <strong>
