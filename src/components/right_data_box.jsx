@@ -327,6 +327,19 @@ function Work() {
             alt="article-cover"
           />
         </div>
+
+          <div className="article-card">
+          <div className="content">
+            <strong>
+              <p className="date">Sep 25, 2022</p>
+              <p className="title">Dev Maurya</p>
+            </strong>
+          </div>
+          <img
+            src="https://private-user-images.githubusercontent.com/105772302/391231614-7f1aae31-8278-436b-89b7-780e6d31ad9e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI5NjUxMTQsIm5iZiI6MTczMjk2NDgxNCwicGF0aCI6Ii8xMDU3NzIzMDIvMzkxMjMxNjE0LTdmMWFhZTMxLTgyNzgtNDM2Yi04OWI3LTc4MGU2ZDMxYWQ5ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEzMFQxMTA2NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZjdlYzYzODhhYWQ5NWE0ZTdhNmY2MjlhNzgzZjUyYTBhNDcyOThjNWQ2NTgxNmQyNjQ4YmRkZjU1NTFjYWI3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.un6PcNIOX0VEebUKi_YbOtE9OLmT1E4Vp73S46hKuZM"
+            alt="article-cover"
+          />
+        </div>
         
         <div className="article-card">
           <div className="content">
