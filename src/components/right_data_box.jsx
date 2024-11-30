@@ -327,7 +327,6 @@ function Work() {
             alt="article-cover"
           />
         </div>
-          <a href="https://devvmaurya.github.io/Portfolio_v2-main/">
           <div className="article-card">
           <div className="content">
             <strong>
@@ -340,7 +339,6 @@ function Work() {
             alt="article-cover"
           />
         </div>
-        </a>
         <div className="article-card">
           <div className="content">
             <strong>
